@@ -3,7 +3,9 @@ import React from 'react';
 export const Hero = () => {
     return (
         <section>
-            hero
+            <h1 className="section-title">
+                Alexa Rise
+            </h1>
         </section>
     )
 }

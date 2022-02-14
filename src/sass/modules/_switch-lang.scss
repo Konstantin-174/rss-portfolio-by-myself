@@ -1,0 +1,8 @@
+.switch-lang {
+@include font($weight: bold, $size: 2.0rem, $height: 5.0rem)
+}
+
+.switch-lang__item {
+  @include hover-link;
+  cursor: pointer;
+}
