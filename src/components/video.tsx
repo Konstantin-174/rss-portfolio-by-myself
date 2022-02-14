@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Video = () => {
     return (
-        <section>
+        <section id="video">
             <h2 className="section-title">
                 Video
             </h2>

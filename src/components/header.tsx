@@ -10,11 +10,11 @@ export const Header = () => {
                 </a>
                 <nav className="header__navigation">
                     <ul className="navigation">
-                        <li className="navigation__link">Skills</li>
-                        <li className="navigation__link">Portfolio</li>
-                        <li className="navigation__link">Video</li>
-                        <li className="navigation__link">Price</li>
-                        <li className="navigation__link">Contacts</li>
+                        <a href="#skills"><li className="navigation__link">Skills</li></a>
+                        <a href="#portfolio"><li className="navigation__link">Portfolio</li></a>
+                        <a href="#video"><li className="navigation__link">Video</li></a>
+                        <a href="#price"><li className="navigation__link">Price</li></a>
+                        <a href="#contacts"><li className="navigation__link">Contacts</li></a>
                     </ul>
                 </nav>
                 <div className="switch-lang">
