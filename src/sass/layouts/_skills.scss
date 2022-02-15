@@ -1,6 +1,5 @@
 .skills__title {
-  text-align: center;
-  padding: 100px 0 60px 0;
+  @extend %padding-title;
 }
 
 .skills__column {
