@@ -9,14 +9,12 @@ import {Contacts} from "./contacts";
 export const Main = () => {
     return (
         <main>
-            <div className="container">
-                <Hero/>
-                <Skills/>
-                <Portfolio/>
-                <Video/>
-                <Price/>
-                <Contacts/>
-            </div>
+            <Hero/>
+            <Skills/>
+            <Portfolio/>
+            <Video/>
+            <Price/>
+            <Contacts/>
         </main>
     )
 }

@@ -11,3 +11,13 @@
     color: $color-primary;
   }
 }
+
+@mixin column($width) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  > * {
+    flex-basis: $width;
+  }
+}

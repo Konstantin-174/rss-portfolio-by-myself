@@ -3,11 +3,11 @@ import React from 'react';
 export const Hero = () => {
     return (
         <section className="hero">
-            <div className="hero__container">
-                <h1 className="section-title">
+            <div className="container hero__container">
+                <h1 className="hero__title">
                     Alexa Rise
                 </h1>
-                <p className="hero-text">
+                <p className="hero__text">
                     Save sincere emotions, romantic feelings and happy moments of life together with professional photographer Alexa Rise
                 </p>
                 <button className="button button_colored">Hire me</button>
