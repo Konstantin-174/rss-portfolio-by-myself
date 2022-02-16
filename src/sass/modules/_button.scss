@@ -3,4 +3,5 @@
   @include hover-button;
   @extend %border-size;
   background: $color-primary;
+  border: none;
 }

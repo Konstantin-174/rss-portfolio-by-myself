@@ -1,6 +1,7 @@
 .contacts__container {
   display: flex;
   padding-top: 80px;
+  padding-bottom: 195px;
   background-image: url("../../assets/img/contacts_bg.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -8,8 +9,6 @@
 
 .contacts__block {
   margin-left: auto;
-  margin-top: 60px;
-  margin-bottom: 195px;
 
   input, textarea {
     @include font($size: 2.0rem, $height: 4.0rem);

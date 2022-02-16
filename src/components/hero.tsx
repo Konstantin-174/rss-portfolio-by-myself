@@ -10,7 +10,7 @@ export const Hero = () => {
                 <p className="hero__text">
                     Save sincere emotions, romantic feelings and happy moments of life together with professional photographer Alexa Rise
                 </p>
-                <button className="button button_colored">Hire me</button>
+                <button className="button hero__button">Hire me</button>
             </div>
         </section>
     )
