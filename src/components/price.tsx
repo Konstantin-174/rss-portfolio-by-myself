@@ -3,7 +3,7 @@ import React from 'react';
 export const Price = () => {
     return (
         <section id="price">
-            <div className="container">
+            <div className="container price__container">
                 <h2 className="price__title">
                     Price
                 </h2>
