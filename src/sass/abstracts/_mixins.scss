@@ -12,6 +12,13 @@
   }
 }
 
+@mixin hover-button {
+  @extend %transition;
+  &:hover {
+    color: $color-light;
+  }
+}
+
 @mixin column($width) {
   display: flex;
   flex-wrap: wrap;

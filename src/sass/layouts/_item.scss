@@ -1,0 +1,21 @@
+.item__title {
+  padding: 43px 0 20px 0;
+}
+
+.item__price {
+  @extend %font-top;
+  @include font($weight: 700, $size: 2.4rem, $height: 4.8rem);
+  color: $color-primary;
+  padding-bottom: 20px;
+}
+
+.item__text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 40px;
+}
+
+.item__button {
+  padding-bottom: 43px;
+}
