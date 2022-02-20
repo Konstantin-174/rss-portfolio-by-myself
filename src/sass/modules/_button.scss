@@ -1,7 +1,0 @@
-.button {
-  @include font($size: 2.0rem, $height: 4.0rem);
-  @include hover-button;
-  @extend %border-size;
-  background: $color-primary;
-  border: none;
-}

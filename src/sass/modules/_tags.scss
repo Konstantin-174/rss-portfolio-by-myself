@@ -1,9 +1,0 @@
-.tags {
-  text-align: center;
-}
-
-.tag {
-  @extend %border-size;
-  padding: 8px 70px 7px 70px;
-  border: 2px solid $color-primary;
-}
