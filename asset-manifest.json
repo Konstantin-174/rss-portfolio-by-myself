@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rss-portfolio-by-myself/static/css/main.4866b6d6.css",
-    "main.js": "/rss-portfolio-by-myself/static/js/main.4d22ac38.js",
+    "main.css": "/rss-portfolio-by-myself/static/css/main.63c4fa09.css",
+    "main.js": "/rss-portfolio-by-myself/static/js/main.1bf6073b.js",
     "static/js/787.c1f64452.chunk.js": "/rss-portfolio-by-myself/static/js/787.c1f64452.chunk.js",
     "static/media/video-player.png": "/rss-portfolio-by-myself/static/media/video-player.2bfb9d394e76cc85986e.png",
     "static/media/contacts_bg.png": "/rss-portfolio-by-myself/static/media/contacts_bg.723ae67c95b547c36873.png",
@@ -22,12 +22,12 @@
     "static/media/skills_audio.svg": "/rss-portfolio-by-myself/static/media/skills_audio.79e4965456081ffe9d8765dee8458753.svg",
     "index.html": "/rss-portfolio-by-myself/index.html",
     "static/media/contacts_fb.svg": "/rss-portfolio-by-myself/static/media/contacts_fb.d48c4da5f4935b172e92207c8c014780.svg",
-    "main.4866b6d6.css.map": "/rss-portfolio-by-myself/static/css/main.4866b6d6.css.map",
-    "main.4d22ac38.js.map": "/rss-portfolio-by-myself/static/js/main.4d22ac38.js.map",
+    "main.63c4fa09.css.map": "/rss-portfolio-by-myself/static/css/main.63c4fa09.css.map",
+    "main.1bf6073b.js.map": "/rss-portfolio-by-myself/static/js/main.1bf6073b.js.map",
     "787.c1f64452.chunk.js.map": "/rss-portfolio-by-myself/static/js/787.c1f64452.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4866b6d6.css",
-    "static/js/main.4d22ac38.js"
+    "static/css/main.63c4fa09.css",
+    "static/js/main.1bf6073b.js"
   ]
 }
