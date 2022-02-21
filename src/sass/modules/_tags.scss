@@ -1,9 +1,17 @@
 .tags {
   text-align: center;
+  justify-content: center;
+  display: flex;
+  gap: 5px;
 }
 
 .tag {
   @extend %border-size;
   padding: 8px 70px 7px 70px;
   border: 2px solid $color-primary;
+}
+
+.tag_colored {
+  background: $color-primary;
+  color: $color-layout;
 }

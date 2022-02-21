@@ -16,6 +16,15 @@
     color: $color-primary;
     padding: 3px 0 3px 20px;
   }
+
+  textarea {
+    resize: none;
+
+    &::placeholder {
+      @extend %font-prim;
+      color: $color-primary;
+    }
+  }
 }
 
 .contacts__title {
