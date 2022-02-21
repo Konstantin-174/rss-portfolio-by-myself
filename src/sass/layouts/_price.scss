@@ -4,6 +4,7 @@
 
 .price__title {
   @extend %padding-title;
+  @extend %horizont-line;
 }
 
 .price__item {

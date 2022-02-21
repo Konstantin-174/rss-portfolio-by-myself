@@ -10,9 +10,11 @@ export const Portfolio = () => {
     return (
         <section id="portfolio">
             <div className="container">
-                <h2 className="portfolio__title">
-                    Portfolio
-                </h2>
+                <div className="section-title">
+                    <h2 className="portfolio__title">
+                        Portfolio
+                    </h2>
+                </div>
                 <div className="tags">
                     <span className="tag">Winter</span>
                     <span className="tag">Spring</span>

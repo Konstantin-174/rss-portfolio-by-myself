@@ -1,5 +1,6 @@
 .portfolio__title {
   @extend %padding-title;
+  @extend %horizont-line;
 }
 
 .portfolio__img {

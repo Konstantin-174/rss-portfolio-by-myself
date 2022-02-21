@@ -8,9 +8,11 @@ export const Skills = () => {
     return (
         <section id="skills">
             <div className="container">
-                <h2 className="skills__title">
-                    Skills
-                </h2>
+                <div className="section-title">
+                    <h2 className="skills__title">
+                        Skills
+                    </h2>
+                </div>
                 <div className="layout-4-column skills__column">
                     <div className="skill">
                         <Camera_ico className="skill__ico"/>

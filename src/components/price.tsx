@@ -4,9 +4,11 @@ export const Price = () => {
     return (
         <section id="price">
             <div className="container price__container">
-                <h2 className="price__title">
-                    Price
-                </h2>
+                <div className="section-title">
+                    <h2 className="price__title">
+                        Price
+                    </h2>
+                </div>
                 <div className="layout-3-column">
                     <div className="price__item">
                         <h3 className="item__title">Standard</h3>
