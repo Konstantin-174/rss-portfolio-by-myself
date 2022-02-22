@@ -4,6 +4,12 @@
   background-image: url("../../assets/img/bg.png");
   background-position: center 0;
   background-repeat: no-repeat;
+
+  @include media-tablet {
+    background-image: url("../../assets/img/bg_small.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+  }
 }
 
 .header__navigation {
