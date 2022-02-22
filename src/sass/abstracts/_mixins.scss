@@ -28,3 +28,9 @@
     flex-basis: $width;
   }
 }
+
+@mixin media-tablet {
+  @media (max-width: $width-tablet) {
+    @content;
+  }
+}

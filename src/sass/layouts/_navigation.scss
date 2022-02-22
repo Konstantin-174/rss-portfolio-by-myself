@@ -1,6 +1,10 @@
 .navigation {
   @include font($size: 2.0rem, $height: 5.0rem);
   display: flex;
+
+  @include media-tablet {
+    display: none;
+  }
 }
 
 .navigation >a {

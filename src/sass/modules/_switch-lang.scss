@@ -5,4 +5,9 @@
 .switch-lang__item {
   @include hover-link;
   cursor: pointer;
+  padding: 0 9px;
+
+  @include media-tablet {
+    padding: 0 20px 0 14px;
+  }
 }

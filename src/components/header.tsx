@@ -22,6 +22,11 @@ export const Header = () => {
                     /
                     <span className="switch-lang__item"> ru</span>
                 </div>
+                <div className="hamburger">
+                    <span className="hamburger__line"></span>
+                    <span className="hamburger__line"></span>
+                    <span className="hamburger__line"></span>
+                </div>
             </div>
         </header>
     )
